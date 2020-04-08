@@ -29,6 +29,7 @@ h1 {
   position: fixed;
   top: 80px;
   right: 100px;
+  border-radius: 50%;
 }
 
 p {
