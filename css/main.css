@@ -24,11 +24,12 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-avatar {
+.section-1 {
     border-radius: 50%;
-    width: 100px;
+    width: 100%;
     height: 100px;
-    background-image: url("/images/lotad.jpg");
+    position: relative;
+    top: 100px;
 }
 
 p {
