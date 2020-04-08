@@ -24,9 +24,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-img {
-  border-radius: 50%;
-}
+img.avatar { margin-bottom: 30px; }
 
 p {
     font-size: 1.5em;
