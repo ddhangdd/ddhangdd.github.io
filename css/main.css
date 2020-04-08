@@ -24,7 +24,10 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-img.avatar { margin-bottom: 30px; }
+img {
+    border-radius: 50%;
+    width:300px;
+}
 
 p {
     font-size: 1.5em;
