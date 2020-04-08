@@ -27,8 +27,8 @@ h1 {
 
 .topleft {
   position: absolute;
-  top: 30px;
-  right: 10px;
+  top: 300px;
+  right: 0;
 }
 
 p {
