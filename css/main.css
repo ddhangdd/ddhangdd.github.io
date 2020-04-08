@@ -25,9 +25,9 @@ h1 {
 }
 
 .topleft {
-  width: 33.33333333333333%;
+  position: relative;
   top: 8px;
-  left: 2000px;
+  left: 16px;
 }
 
 p {
