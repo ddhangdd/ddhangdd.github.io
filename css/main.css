@@ -24,12 +24,10 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-.section-1 {
-    border-radius: 50%;
-    width: 100%;
-    height: 100px;
-    position: relative;
-    top: 100px;
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
 }
 
 p {
