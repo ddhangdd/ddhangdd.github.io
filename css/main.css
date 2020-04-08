@@ -24,11 +24,12 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+
 .topleft {
-  position: relative;
+  position: absolute;
   top: 8px;
-  left: 16px;
-}
+  left: 1600px;
+
 
 p {
     font-size: 1.5em;
