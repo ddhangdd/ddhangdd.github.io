@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Desmond Fung Launches Site"
