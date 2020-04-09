@@ -1,8 +1,11 @@
 name: Desmond Fung 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
+paginate: 5
 theme: jekyll-theme-lanyon
+
+plugins:
+  - jekyll-paginate
 
 #Site settings
 title: Desmond website
