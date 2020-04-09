@@ -10,7 +10,7 @@ plugins:
 #Site settings
 title: Welcome to my website!
 email: dfung2@wisc.edu
-url: https://ddhangdd.github.io/
+url: https://ddhangdd.github.io
 baseurl: ''
 cv: https://github.com/ddhangdd/ddhangdd.github.io/raw/master/hw08.pdf
 author.name: Desmond Fung
