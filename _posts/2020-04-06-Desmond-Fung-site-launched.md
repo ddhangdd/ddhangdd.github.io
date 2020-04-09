@@ -4,4 +4,4 @@ title: "Desmond Fung Launches Site"
 date: 2020-04-06
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+If you would like to know more about me. Feel free to check out my bio. [Jekyll](https://ddhangdd.github.io/about/)
