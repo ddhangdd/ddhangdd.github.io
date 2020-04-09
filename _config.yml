@@ -2,7 +2,7 @@ name: Desmond Fung
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-lanyon
 
 #Site settings
 title: Desmond website
