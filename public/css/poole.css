@@ -109,14 +109,6 @@ p {
   margin-bottom: 1rem;
 }
 
-#wrapper{
-    margin: 0 auto;
-    width: 100%;
-    text-align: center;
-    position: absolute;
-    top: 90px;
-    right: -1100px;
-}
 
 #avatar{
     border-radius: 50%;
