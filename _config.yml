@@ -3,7 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 paginate: 5
 remote_theme: jekyll-theme-lanyon
-description: 'My <a href="https://www.facebook.com/desmond.fung.1" target="_blank">Facebook</a> if you are interested ;)'
+description: 'My <a href="https://www.facebook.com/desmond.fung.1" target="_blank">Facebook</a> if you are interested😉'
 plugins:
   - jekyll-paginate
 
