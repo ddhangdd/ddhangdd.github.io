@@ -73,7 +73,11 @@ h1, h2, h3, h4, h5, h6 {
     background-image: url("/images/myself.jpg");
     background-size: cover;
     position: relative;
+<<<<<<< HEAD
 	left: 75%
+=======
+    left: 85%
+>>>>>>> 0defdbfbc31a2465a84b2596fc6cce9e40508ced
 }
 
 
