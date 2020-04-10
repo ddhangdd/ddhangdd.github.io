@@ -3,7 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 paginate: 5
 remote_theme: jekyll-theme-lanyon
-description: 'My facebook Account <a href="https://www.facebook.com/desmond.fung.1" target="_blank">Facebook</a>
+description: 'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 plugins:
   - jekyll-paginate
 
