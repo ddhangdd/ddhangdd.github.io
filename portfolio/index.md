@@ -3,14 +3,14 @@ layout: default
 title: Portfolio
 ---
 
-## Portfolio
+# Portfolio
 
 ---
 
 
-### Category Name 2
+## Technical Project
 
-- [Project 1 Title](http://example.com/)
+- [Edugression](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
