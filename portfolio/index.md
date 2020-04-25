@@ -7,7 +7,15 @@ title: Portfolio
 
 ---
 
+## Learning Purpose 
 
+* Using iloc, loc to select rows and columns in Pandas DataFrames
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iv6JsO0EYHJA8MJErj1iYTGR_87XlmGA)
+This colab covers how to use iloc and loc with Pandas. Inspired by  [Lynn](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/#comments)
+	
+
+---
+	
 ## Technical Project
 
 - [Edugression](https://ddhangdd.github.io/Edugression/)
@@ -19,7 +27,7 @@ title: Portfolio
 ---
 
 ```sql
-CREATE TABLE student (   #schema is like a framework, then you insert data
+CREATE TABLE student (   
     student_id INT PRIMARY KEY,
     name VARCHAR(20),
     major VARCHAR(20)
@@ -47,14 +55,14 @@ INSERT INTO student VALUES(5,'Mike', 'CS');
 
 #start over
 
-
-CREATE TABLE student (   #schema is like a framework, then you insert data
+--schema is like a framework, then you insert data
+CREATE TABLE student (   
     student_id INT PRIMARY KEY,
     name VARCHAR(20) ,
     major VARCHAR(20) DEFAULT 'undecided' #constraint
 );
 
-CREATE TABLE student (   #schema is like a framework, then you insert data
+CREATE TABLE student (   
     student_id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(20) ,
     major VARCHAR(20) DEFAULT 'undecided'
@@ -76,7 +84,7 @@ INSERT INTO student VALUES(3,'Claire', 'CS');
 INSERT INTO student VALUES(4,'Jack', 'Biology');
 INSERT INTO student VALUES(5,'Mike', 'CS');
 
-#wow
+
 UPDATE student 
 SET major = "Bio"
 WHERE major = "Biology";
