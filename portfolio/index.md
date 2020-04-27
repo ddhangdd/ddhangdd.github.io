@@ -20,7 +20,7 @@ This colab covers how to use iloc and loc with Pandas. Inspired by  [Lynn](https
 
 - [Edugression](https://ddhangdd.github.io/Edugression/)
 - [Stock Market Prediction](https://ddhangdd.github.io/Stock%20Market%20Prediction/)
-- [Neural Networks and CSPs](http://example.com/)
+- [Neural Networks and CSPs](https://ddhangdd.github.io/portfolio/SQL/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
