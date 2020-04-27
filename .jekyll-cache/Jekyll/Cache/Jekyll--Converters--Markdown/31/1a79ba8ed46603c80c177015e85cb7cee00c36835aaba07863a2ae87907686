@@ -1,30 +1,4 @@
-I"*.<h1 id="portfolio">Portfolio</h1>
-
-<hr />
-
-<h2 id="learning-purpose">Learning Purpose</h2>
-
-<ul>
-  <li>
-    <p>1 - Using iloc, loc to select rows and columns in Pandas DataFrames<a href="https://colab.research.google.com/drive/1iv6JsO0EYHJA8MJErj1iYTGR_87XlmGA"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></p>
-
-    <p>This colab covers how to use iloc and loc with Pandas. Inspired by  <a href="https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/#comments">Lynn</a></p>
-  </li>
-</ul>
-
-<hr />
-
-<h2 id="technical-project">Technical Project</h2>
-
-<ul>
-  <li><a href="https://ddhangdd.github.io/Edugression/">Edugression</a></li>
-  <li><a href="https://ddhangdd.github.io/Stock%20Market%20Prediction/">Stock Market Prediction</a></li>
-  <li><a href="http://example.com/">Neural Networks and CSPs</a></li>
-  <li><a href="http://example.com/">Project 4 Title</a></li>
-  <li><a href="http://example.com/">Project 5 Title</a></li>
-</ul>
-
-<hr />
+I">*<h1 id="sql">SQL</h1>
 
 <div class="language-sql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">CREATE</span> <span class="k">TABLE</span> <span class="n">student</span> <span class="p">(</span>   
     <span class="n">student_id</span> <span class="nb">INT</span> <span class="k">PRIMARY</span> <span class="k">KEY</span><span class="p">,</span>
@@ -120,6 +94,5 @@
 
 
 </code></pre></div></div>
-
 <hr />
 :ET
