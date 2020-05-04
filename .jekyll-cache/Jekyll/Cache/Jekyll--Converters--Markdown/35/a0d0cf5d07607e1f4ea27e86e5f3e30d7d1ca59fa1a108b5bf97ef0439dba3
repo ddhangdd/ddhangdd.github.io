@@ -1,0 +1,21 @@
+I"<p>This section serves as a placeholder for my notes, so that I can review certain concepts when needed.</p>
+
+<p>Key ideas covered: <a href="L09_regularization__slides 2.pdf" target="_blank">L09_regularization</a></p>
+
+<p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Lanyon here) includes the following:</p>
+
+<ul>
+  <li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/atom.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
+  <li>Mobile friendly design and development</li>
+  <li>Easily scalable text and component sizing with <code class="highlighter-rouge">rem</code> units in the CSS</li>
+  <li>
+    <p>Support for a wide gamut of HTML elements</p>
+  </li>
+  <li>
+    <p><a href="L09_regularization__slides 2.pdf" target="_blank">L09_regularization</a></p>
+  </li>
+  <li><a href="L10_norm-and-init__slides.pdf" target="_blank">L10_norm</a></li>
+</ul>
+
+<hr />
+:ET

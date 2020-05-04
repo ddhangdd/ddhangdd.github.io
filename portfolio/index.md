@@ -26,9 +26,9 @@ This colab covers how to use iloc and loc with Pandas. Inspired by  [Lynn](https
 
 ---
 
+## Notes 
 
-
-
+- [STAT453: Introduction to Deep Learning and Generative Models (001) SP20](https://ddhangdd.github.io/Portfolio/LearningNotes)
 
 
 ---
