@@ -1,13 +1,13 @@
-I"ð<h1 id="resources">Resources</h1>
+I"Æ<h1 id="resources">Resources</h1>
 
 <hr />
 
 <ul>
   <li><a href="https://realpython.com/python-super/">Great resources to understand Super() in python</a></li>
   <li><a href="https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/">Time Series Prediction using LSTM with PyTorch in Python</a></li>
-  <li>
-    <h2 id="helpful-markdown-cheatsheet"><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Helpful Markdown-Cheatsheet</a></h2>
-  </li>
+  <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Helpful Markdown-Cheatsheet</a></li>
 </ul>
+
+<hr />
 
 :ET
