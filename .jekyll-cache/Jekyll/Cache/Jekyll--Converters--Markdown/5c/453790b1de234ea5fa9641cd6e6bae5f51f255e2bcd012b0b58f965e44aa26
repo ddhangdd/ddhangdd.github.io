@@ -1,0 +1,34 @@
+I"»<h1 id="portfolio">Portfolio</h1>
+
+<hr />
+
+<h2 id="learning-purpose">Learning Purpose</h2>
+
+<ul>
+  <li>Using iloc, loc to select rows and columns in Pandas DataFrames
+<a href="https://colab.research.google.com/drive/1iv6JsO0EYHJA8MJErj1iYTGR_87XlmGA"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a>
+This colab covers how to use iloc and loc with Pandas. Inspired by  <a href="https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/#comments">Lynn</a></li>
+</ul>
+
+<hr />
+
+<h2 id="technical-project">Technical Project</h2>
+
+<ul>
+  <li><a href="https://ddhangdd.github.io/Edugression/">Edugression</a></li>
+  <li><a href="https://ddhangdd.github.io/Stock%20Market%20Prediction/">Stock Market Prediction</a></li>
+  <li><a href="https://ddhangdd.github.io/portfolio/SQL">Neural Networks and CSPs</a></li>
+  <li><a href="http://example.com/">Project 4 Title</a></li>
+  <li><a href="http://example.com/">Project 5 Title</a></li>
+</ul>
+
+<hr />
+
+<h2 id="notes">Notes</h2>
+
+<ul>
+  <li><a href="https://ddhangdd.github.io/Portfolio/LearningNotes">STAT453: Introduction to Deep Learning and Generative Models (001) SP20</a></li>
+</ul>
+
+<hr />
+:ET
